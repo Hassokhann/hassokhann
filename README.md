@@ -79,24 +79,3 @@
 **Tech:** Next.js App Router, FastAPI, PostgreSQL, Docker, AWS EC2
 > AI-powered job matching platform with resume parsing and interview scheduling.
 ![Stars](https://img.shields.io/github/stars/yourusername/job-board-nextjs?style=social)
-
----
-
-## 📁 Architecture Patterns I Implement
-
-```bash
-├── Full-Stack Project Structure
-│   ├── frontend/          # Next.js 14 (App Router)
-│   │   ├── app/           # Server Components
-│   │   ├── components/    # Reusable UI
-│   │   ├── lib/          # Utilities, API calls
-│   │   └── styles/       # Tailwind/Bootstrap
-│   ├── backend/          # Node.js/FastAPI
-│   │   ├── src/
-│   │   │   ├── controllers/
-│   │   │   ├── models/
-│   │   │   ├── routes/
-│   │   │   └── middleware/
-│   │   └── Dockerfile
-│   ├── docker-compose.yml
-│   └── README.md
